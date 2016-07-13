@@ -12,3 +12,4 @@ References
   - [Controlling LED with GPIO [PL]](http://akademia.nettigo.pl/raspberry_pi_sterowanie_gpio/)
   - [First steps [PL]](http://majsterkowo.pl/rapsberry-pi-pierwsze-kroki/)
   - [Reading temperature [PL]](http://blog.vokiel.com/raspberry-pi-odczyt-temperatury-przez-nodejs/)
+  - [Controlling LCD display [PL]](http://malinowepi.pl/post/44544667458/raspberry-pi-i-wy%C5%9Bwietlacz-lcd-gpio-general)

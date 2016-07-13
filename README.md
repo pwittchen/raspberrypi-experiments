@@ -2,6 +2,10 @@ Raspberry Pi experiments
 ========================
 simple projects for Raspberry Pi
 
+Programs
+--------
+- [blinking LED infinitely](https://github.com/pwittchen/raspberrypi-experiments/tree/master/programs/blinkLED)
+
 References
 ----------
 - On-line shops:

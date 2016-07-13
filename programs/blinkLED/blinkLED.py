@@ -1,5 +1,7 @@
 # simple program which blinks LED infinitely
 
+# hardware setup: connect LED to pin 18 and resistor 220 Ohm in serial and then to GND
+
 import RPi.GPIO as GPIO
 from time import sleep
 

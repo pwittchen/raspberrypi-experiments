@@ -11,3 +11,4 @@ References
   - [Remote access](https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md)
   - [Controlling LED with GPIO [PL]](http://akademia.nettigo.pl/raspberry_pi_sterowanie_gpio/)
   - [First steps [PL]](http://majsterkowo.pl/rapsberry-pi-pierwsze-kroki/)
+  - [Reading temperature [PL]](http://blog.vokiel.com/raspberry-pi-odczyt-temperatury-przez-nodejs/)

@@ -4,7 +4,7 @@ simple projects for Raspberry Pi
 
 List of programs
 ----------------
-- [blinking LED infinitely](https://github.com/pwittchen/raspberrypi-experiments/tree/master/programs/blinkLED)
+- [blinking LED infinitely](https://github.com/pwittchen/raspberrypi-experiments/tree/master/programs/blink_led)
 
 References
 ----------

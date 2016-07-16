@@ -5,6 +5,7 @@ simple projects for Raspberry Pi
 List of programs
 ----------------
 - [blinking LED infinitely](https://github.com/pwittchen/raspberrypi-experiments/tree/master/programs/blink_led)
+- [thermometer](https://github.com/pwittchen/raspberrypi-experiments/tree/master/programs/thermometer)
 
 References
 ----------

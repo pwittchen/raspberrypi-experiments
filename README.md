@@ -19,3 +19,4 @@ References
   - [Reading temperature [PL]](http://blog.vokiel.com/raspberry-pi-odczyt-temperatury-przez-nodejs/)
   - [Reading temperature with Python](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/)
   - [Controlling LCD display [PL]](http://malinowepi.pl/post/44544667458/raspberry-pi-i-wy%C5%9Bwietlacz-lcd-gpio-general)
+  - [Digital thermometer sensor](http://www.raspberrypi-spy.co.uk/2013/03/raspberry-pi-1-wire-digital-thermometer-sensor/)

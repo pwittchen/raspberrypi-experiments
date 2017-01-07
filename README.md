@@ -22,3 +22,4 @@ References
   - [Digital thermometer sensor](http://www.raspberrypi-spy.co.uk/2013/03/raspberry-pi-1-wire-digital-thermometer-sensor/)
   - [DS18B20+ One Wire Digital Temperature Sensor and the Raspberry Pi](https://www.modmypi.com/blog/ds18b20-one-wire-digital-temperature-sensor-and-the-raspberry-pi)
   - [Controlling PWR and ACT built-in LEDs](http://www.jeffgeerling.com/blogs/jeff-geerling/controlling-pwr-act-leds-raspberry-pi)
+  - [Using a 16x2 LCD Display with a Raspberry Pi (youtube video)](https://www.youtube.com/watch?v=cVdSc8VYVBM)
